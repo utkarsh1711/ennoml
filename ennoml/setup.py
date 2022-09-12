@@ -6,6 +6,6 @@ setup(name='ennoml',
     author='Utkarsh',
     author_email='author@somemail.com',
     license='MIT',
-    packages=['ennoml','.ennoml','.ennoml.data','.ennoml.testing','.ennoml.training','.ennoml.util','.ennoml.models'],
+    packages=['.ennoml','.ennoml.data','.ennoml.testing','.ennoml.training','.ennoml.util','.ennoml.models'],
 #     scripts=['bin/UnitTest.py'],
     zip_safe=False)
